@@ -1,0 +1,10 @@
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\WFGestionLocal.csproj.AssemblyReference.cache
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\GestionLocal.Form1.resources
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\GestionLocal.Form2.resources
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\GestionLocal.Form3.resources
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\WFGestionLocal.Properties.Resources.resources
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\WFGestionLocal.csproj.GenerateResource.cache
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\WFGestionLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\WFGestionLocal.AssemblyInfoInputs.cache
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\WFGestionLocal.AssemblyInfo.cs
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Release\net6.0-windows\WFGestionLocal.csproj.CoreCompileInputs.cache

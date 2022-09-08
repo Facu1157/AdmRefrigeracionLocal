@@ -1,0 +1,64 @@
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.exe
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.deps.json
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.runtimeconfig.json
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.pdb
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.AssemblyReference.cache
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form1.resources
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.GenerateResource.cache
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.AssemblyInfoInputs.cache
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.AssemblyInfo.cs
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.CoreCompileInputs.cache
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\refint\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.pdb
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.genruntimeconfig.cache
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\ref\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form2.resources
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form3.resources
+C:\Users\facun\source\repos\GestionLocal\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Properties.Resources.resources
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\bin\Debug\net6.0-windows\GestionLocal.exe
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\bin\Debug\net6.0-windows\GestionLocal.deps.json
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\bin\Debug\net6.0-windows\GestionLocal.runtimeconfig.json
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\bin\Debug\net6.0-windows\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\bin\Debug\net6.0-windows\GestionLocal.pdb
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.AssemblyReference.cache
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form1.resources
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form2.resources
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form3.resources
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Properties.Resources.resources
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.GenerateResource.cache
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.AssemblyInfoInputs.cache
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.AssemblyInfo.cs
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.CoreCompileInputs.cache
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\refint\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.pdb
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\GestionLocal.genruntimeconfig.cache
+C:\Users\facun\source\repos\GestionLocal - copia\WF_GestionLocal\obj\Debug\net6.0-windows\ref\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.exe
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.deps.json
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.runtimeconfig.json
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\bin\Debug\net6.0-windows\GestionLocal.pdb
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\bin\Debug\net6.0-windows\cGestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\bin\Debug\net6.0-windows\cGestionLocal.pdb
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.AssemblyReference.cache
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form1.resources
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form2.resources
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form3.resources
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Form4.resources
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.Properties.Resources.resources
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.GenerateResource.cache
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.AssemblyInfoInputs.cache
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.AssemblyInfo.cs
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.CoreCompileInputs.cache
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.csproj.CopyComplete
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\refint\GestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.pdb
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\GestionLocal.genruntimeconfig.cache
+C:\Users\facun\source\repos\GestionLocal - copia\GestionLocal\obj\Debug\net6.0-windows\ref\GestionLocal.dll

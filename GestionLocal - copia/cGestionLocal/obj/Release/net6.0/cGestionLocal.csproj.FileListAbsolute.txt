@@ -1,0 +1,12 @@
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\bin\Release\net6.0\cGestionLocal.deps.json
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\bin\Release\net6.0\cGestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\bin\Release\net6.0\cGestionLocal.pdb
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\obj\Release\net6.0\cGestionLocal.csproj.AssemblyReference.cache
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\obj\Release\net6.0\cGestionLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\obj\Release\net6.0\cGestionLocal.AssemblyInfoInputs.cache
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\obj\Release\net6.0\cGestionLocal.AssemblyInfo.cs
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\obj\Release\net6.0\cGestionLocal.csproj.CoreCompileInputs.cache
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\obj\Release\net6.0\cGestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\obj\Release\net6.0\refint\cGestionLocal.dll
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\obj\Release\net6.0\cGestionLocal.pdb
+C:\Users\facun\source\repos\GestionLocal - copia\cGestionLocal\obj\Release\net6.0\ref\cGestionLocal.dll

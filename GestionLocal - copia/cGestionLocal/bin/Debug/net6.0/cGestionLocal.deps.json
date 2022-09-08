@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cGestionLocal/1.0.0": {
+        "runtime": {
+          "cGestionLocal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cGestionLocal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
